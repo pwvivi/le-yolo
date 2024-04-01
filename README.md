@@ -4,7 +4,8 @@ This is an improved model based on YOLOv8 for target detection from the perspect
 ## CODE：
 you can get the official  YOLOv8 code at https://github.com/ultralytics/ultralytics
 
-and then add our improvement code to the project
+and then add our improvement code to the project.
+Our improved code will be released after the paper is accepted
 
 ## DATASETS：
 
