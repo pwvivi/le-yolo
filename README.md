@@ -6,7 +6,8 @@ you can get the official  YOLOv8 code at https://github.com/ultralytics/ultralyt
 ,get the pruning code at https://github.com/VainF/Torch-Pruning
 
 and then add our improvement code to the project.
-Our improved code will be released after the paper is accepted
+
+Our improvement code is currently being organized and will be released after the paper is accepted
 
 ## DATASETS：
 
