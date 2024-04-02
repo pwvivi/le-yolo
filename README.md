@@ -7,7 +7,7 @@ you can get the official  YOLOv8 code at https://github.com/ultralytics/ultralyt
 
 and then add our improvement code to the project.
 
-Our improvement code is currently being organized and will be released after the paper is accepted
+We have released all the improved code, and the code in project format is still being organized.
 
 ## DATASETS：
 
