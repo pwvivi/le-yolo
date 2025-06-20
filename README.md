@@ -1,5 +1,6 @@
 # le-yolo
-The code for TVC 2025 paper "A Lightweight Enhanced YOLOv8 Algorithm for Detecting Small Objects in UAV Aerial Photography"
+The code for TVC 2025 paper "A Lightweight Enhanced YOLOv8 Algorithm for Detecting Small Objects in UAV Aerial Photography".
+
 This is an improved model based on YOLOv8 for target detection from the perspective of drones
 
 ## CODE：
